@@ -1,2 +1,2 @@
 # Lista-Exercicios
-Lista com 50 exercícios em Linguagem C
+Lista com 53 exercícios em Linguagem C
